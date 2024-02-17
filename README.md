@@ -1,2 +1,2 @@
-# btp-app
+# btpapp
 devops test
